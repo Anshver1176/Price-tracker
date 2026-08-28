@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1787907554487,
+    "name": "iphone 16",
+    "url": "https://www.amazon.in/iPhone-16-128-GB-Ultramarine/dp/B0DGJ7TGDR/ref=asc_df_B0DGJ7TGDR?mcid=d370ad2c802639d7bcffbebd7fe81236&tag=googleshopdes-21&linkCode=df0&hvadid=709962856229&hvpos=&hvnetw=g&hvrand=7059531744669790767&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9300836&hvtargid=pla-2368050998054&psc=1&hvocijid=7059531744669790767-B0DGJ7TGDR-&hvexpln=0&gad_source=1",
+    "imageUrl": "https://m.media-amazon.com/images/I/71nvkZxqYhL._SX679_.jpg",
+    "currentPrice": 64900,
+    "targetPrice": 65000,
+    "priceHistory": [
+      {
+        "price": 79999,
+        "date": "28/8/2026",
+        "timestamp": 1787907554487
+      },
+      {
+        "price": 64900,
+        "date": "28/8/2026",
+        "timestamp": 1787907962624
+      }
+    ]
+  }
+]
